@@ -1,0 +1,11 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit",
+        "source.fixAll": "explicit"
+    },
+    "command-runner.commands": {
+        "pub get": "flutter pub get",
+    },
+    "dart.flutterSdkPath": "/Users/juanca/.puro/envs/zero_hunger/flutter",
+    "dart.sdkPath": "/Users/juanca/.puro/envs/zero_hunger/flutter/bin/cache/dart-sdk"
+}
